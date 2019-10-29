@@ -1,3 +1,3 @@
-[go-proverbs.github.io](http://go-proverbs.github.io)
+英文版：[go-proverbs.github.io](http://go-proverbs.github.io)
 
-[Rob Pike's talk](https://www.youtube.com/watch?v=PAAkCSZUG1c)
+[Rob Pike的演讲](https://www.youtube.com/watch?v=PAAkCSZUG1c)
